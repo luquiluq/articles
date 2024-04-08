@@ -1,6 +1,6 @@
 ## Título
 
-- 
+![The incomplete position](/comosicion_ajedrez.PNG "The incomplete position")
 
 
 <details>
